@@ -35,8 +35,8 @@ class MoviesDetailFragment : Fragment(R.layout.fragment_movie_detail) {
             .centerCrop().into(ivImagenItem)
         tvTituloItem.text = movie.title
         tvDescripcionDetalle.text = movie.detail
-        tvPopular.text=movie.release_date
-        tvDate.text = movie.popularity
+        tvPopular.text=movie.popularity
+        tvDate.text = movie.release_date
 
     }
 }
