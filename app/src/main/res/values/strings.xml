@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Movies TMdb</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vitae imperdiet ipsum. Curabitur ligula lorem, porttitor nec gravida sed, porttitor non augue. Mauris laoreet at ex quis scelerisque. Phasellus viverra nunc ut urna aliquam, vel hendrerit felis vestibulum. Proin condimentum nisl elit, non pellentesque purus tristique non. Nulla tempor scelerisque nisl. Proin commodo iaculis tincidunt. Integer vitae elit sed dolor tincidunt tempor.</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "422648860045",
+    "firebase_url": "https://copetechile-5d43e.firebaseio.com",
+    "project_id": "copetechile-5d43e",
+    "storage_bucket": "copetechile-5d43e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422648860045:android:33b082e5e699c3aa7301c4",
+        "android_client_info": {
+          "package_name": "cl.grupo2.copeteandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422648860045-0oe23adtob9i1v77h3bren1bshm01o62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaj6t26hj673DIr54TUNka2PlslT_rB4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422648860045-0oe23adtob9i1v77h3bren1bshm01o62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
